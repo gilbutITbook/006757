@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c729fa2c233f6cd438173dcf7ae83241
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - applePrefab: {fileID: 100002, guid: 464dc42ca0708a94494e40b1ad48139a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

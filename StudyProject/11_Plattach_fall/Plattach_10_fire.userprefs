@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Plattach_11_levelDesign\Assets\BlockRoot.cs">
+    <Files>
+      <File FileName="..\Plattach_11_levelDesign\Assets\ScoreCounter.cs" Line="47" Column="3" />
+      <File FileName="..\Plattach_11_levelDesign\Assets\SceneControl.cs" Line="90" Column="3" />
+      <File FileName="..\Plattach_11_levelDesign\Assets\BlockRoot.cs" Line="177" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
