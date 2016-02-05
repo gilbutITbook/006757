@@ -1,0 +1,17 @@
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/obj/Debug/Assembly-CSharp.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/UnityEngine.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/UnityEditor.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/Mono.Cecil.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/Unity.DataContract.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/hoom/Downloads/sample_data_u5/StudyProject/01_helloUnity/Temp/bin/Debug/Mono.Cecil.Mdb.dll

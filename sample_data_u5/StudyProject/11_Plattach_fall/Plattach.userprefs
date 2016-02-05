@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BlockRoot.cs">
+    <Files>
+      <File FileName="Assets\BlockControl.cs" Line="153" Column="4" />
+      <File FileName="Assets\BlockRoot.cs" Line="71" Column="19" />
+      <File FileName="Assets\SceneControl.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
